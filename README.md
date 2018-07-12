@@ -4,11 +4,7 @@ Tensorflow implementations of the discrete method of successive approximations.
 
 Paper: Qianxiao Li and Shuji Hao. "An Optimal Control Approach to Deep Learning and Applications to Discrete-Weight Neural Networks". *The 35th International Conference on Machine Learning*, 2018
 
-URL: <https://arxiv.org/abs/1803.01299>
-
-## Prerequisites
-
-* in [requirements.txt](requirements.txt)
+URL: <http://proceedings.mlr.press/v80/li18b.html>
 
 ## Examples
 
